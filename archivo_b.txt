@@ -1,1 +1,2 @@
 creo una linea en archivo b
+creo segunda en b 
